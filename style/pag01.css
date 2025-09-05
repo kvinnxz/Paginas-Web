@@ -14,3 +14,6 @@ button{
     height: 40px;
 }
 
+.gallery{
+    display: flexbox;
+}
