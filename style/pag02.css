@@ -1,0 +1,24 @@
+*{
+    text-align: left;
+    margin-left: 1%;
+    align-items: flex-start;
+}
+
+button{
+    background-color: black;
+    color:aliceblue;
+    border: none;
+    border-radius: 12px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+}
+
+.gallery{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
